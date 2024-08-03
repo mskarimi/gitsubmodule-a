@@ -1,2 +1,2 @@
 # gitsubmodule-a
-update v2
+update v3
